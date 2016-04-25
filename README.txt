@@ -1,3 +1,7 @@
+THIS IS JUST FOR STUDY, NOT FOR COMMERCIAL. ORIGINAL AUTHOR IS ANNOUNCED BELOW.
+----------------------------------------------
+
+
 MFavatar Snapshot/Webcam tool for user profile picture
 
 Author: Luuk Verhoeven, MoodleFreak.com
